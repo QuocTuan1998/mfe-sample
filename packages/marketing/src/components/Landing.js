@@ -79,7 +79,7 @@ export default function Album() {
               color="textPrimary"
               gutterBottom
             >
-              Marketing Page
+              micro Marketing Page
             </Typography>
             <Typography
               variant="h5"
@@ -87,7 +87,7 @@ export default function Album() {
               color="textSecondary"
               paragraph
             >
-              Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+              Lorem ipsum is placeholder text commonly used in the graphic
             </Typography>
             <div className={classes.heroButtons}>
               <Grid container spacing={2} justifyContent="center">
