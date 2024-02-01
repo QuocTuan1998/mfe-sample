@@ -87,8 +87,7 @@ export default function Album() {
               color="textSecondary"
               paragraph
             >
-              Make it short and sweet, but not too
-              short so folks don&apos;t simply skip over it entirely.
+              Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
             </Typography>
             <div className={classes.heroButtons}>
               <Grid container spacing={2} justifyContent="center">
